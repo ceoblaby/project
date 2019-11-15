@@ -1,2 +1,4 @@
 .idea/
 *.txt
+!a.txt
+js/
